@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ICorsi3 - SUPSI</string>
+    <string name="error_message">This field is required</string>
+    <string name="add_instructor_toast">New instructor added</string>
+    <string name="add_course_toast">New course added</string>
+    <string name="instructor_dialog_title">Add an instructor</string>
+    <string name="intructor_dialog_message">Add information about the new instructor</string>
+    <string name="course_dialog_title">Add a course</string>
+    <string name="course_dialog_message">Add information about the new course</string>
+
+    <string-array name="qualification_array">
+        <item>Professor</item>
+        <item>Researcher</item>
+        <item>Assistant</item>
+    </string-array>
+</resources>
